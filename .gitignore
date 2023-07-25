@@ -162,4 +162,3 @@ cython_debug/
 tests/allure-results
 
 notifications/commands.txt
-notifications/config.json
