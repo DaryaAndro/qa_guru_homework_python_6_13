@@ -3,8 +3,8 @@
   "base": {
     "logo": "",
     "project": "${JOB_BASE_NAME}",
-    "environment": "some env",
-    "comment": "some comment",
+    "environment": "QA.GURU",
+    "comment": "@DaryaAndronova тут проблемки",
     "reportLink": "${BUILD_URL}",
     "language": "en",
     "allureFolder": "allure-report/",
