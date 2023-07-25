@@ -160,3 +160,6 @@ cython_debug/
 .idea/
 
 tests/allure-results
+
+notifications/commands.txt
+notifications/config.json
