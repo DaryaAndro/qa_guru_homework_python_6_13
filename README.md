@@ -11,4 +11,5 @@
 
 
 Скриншот из телеграмма с нотификацией:
+
 ![2023-07-25_03-54-32.png](https://github.com/DaryaAndro/qa_guru_homework_python_6_13/blob/master/2023-07-25_03-54-32.png)
